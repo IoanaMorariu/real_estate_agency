@@ -1,0 +1,17 @@
+TERENURI
+250000 Bihor Oradea Str.Tudor-Vladimirescu-nr.61 Mecheres-Mircea 0749172490 0 1500
+750000 Vrancea Focsani Str.Oitei-nr.24 Lucaciu-Iazmina 0764182460 1 2400
+126000 Vaslui Vaslui Str.Oltului-nr.37 Lazar-David 0791428350 0 3700
+450000 Teleorman Alexandria Str.Sovata-nr.98 Serfezeu-Razvan 0764381295 0 7500
+951000 Satu-Mare Satu-Mare Str.Mihai-Eminescu-nr.52 Pistuca-Patricia 0715642852 1 3400
+451000 Prahova Ploiesti Str.Grivitei-nr.43 Demian-Patricia 0785190520 1 5200
+348000 Mures Targu-Mures Str.Miliardarilor-nr.10 Roponcea-Raul 0759002650 1 4700
+620000 Maramures Baia-Mare Str.Bombardierilor-nr.17 Ropotean-Stefan 0748251600 1 8500
+785100 Iasi Iasi Str.Ion-Creanga-nr.88 Forgaci-Madalin 0715384605 0 5300
+495100 Hunedoara Deva Str.Primaverii-nr.7 Har-Adrian 0751842500 1 5462
+312000 Gorj Targu-Jiu Str.Andrei-Topliceanu-nr.1 Hodosi-Atilla 0794561828 0 4823
+215400 Galati Galati Str.Vaduvei-nr.20 Sumalan-Ivona 0761942852 0 2000
+651000 Dambovita Targoviste Str.I.L.Caragiale-nr.26 PAul-Alin 0772518060 1 2400
+651000 Dambovita Targoviste Str.I.L.Caragiale-nr.26 PAul-Alin 0772518060 1 2400
+78000 Alba-Iulia Alba Str.Unirii-nr.56 Cirlea-Gabriela 0765124456 0 30
+20000 Alba-Iulia Alba Str.Lacramioarelor-nr.51 Morariu-Ioana 0754962356 1 40

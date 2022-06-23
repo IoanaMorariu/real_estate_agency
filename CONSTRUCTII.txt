@@ -1,0 +1,20 @@
+Constructii
+Alba-Iulia Alba apartament 5 50000 Str.Toporasilor-nr.15 Cristian-Robert 0722845517 90
+Arad Arad apartament 3 60000 Str.Vlaicu-nr.12 Alex-Criprian 0792845517 98
+Bacau Bacau birouri 6 70000 Str.Avrig-nr.15 Vlad-Voicu 0782845514 700
+Brasov Brasov birouri 7 80000 Str.Buftea-nr.10 Andrei-George 0742345513 770
+Constanta Constanta apartament 3 70000 Str.Nasaud-nr.13 George-Alexandru 0743845517 88
+Deva Hunedoara apartament 2 39000 Str.Medias-nr.2 Darius-Martin 0722845517 105
+Bucuresti Ilfov birouri 3 55000 Str.Breaza-nr.2 David-Matei 0742845517 95
+Ploiesti Prahova spatiu_comercial 1 30000 Str.Domenesti-nr.14 Iustin-Victor 0752843517 660
+Sibiu Sibiu apartament 3 60000 Str.Poiana-nr.22 Vlad-Tudor 0742845517 60
+Suceava Suceava spatiu_comercial 1 40000 Str.Visinesti-nr.13 Bogda-Alin 0762845513 80
+Focsani Vrancea birouri 5 80000 Str.Tuzla-nr.13 Dan-Dumitru 0752845512 120
+Iasi Iasi apartament 4 50000 Str.Moravita-nr.15 Mihai-Darius 0732845512 90
+Giurgiu Giurgiu birouri 3 56000 Str.Jebel-nr.4 Paul-Tudor 0741842517 440
+Buzau Buzau apartamet 4 62000 Str.Bujoreni-nr.6 Petre-Pavel 0745845512 100
+Braila Braila birouri 5 56000 Str.Alunu-nr.9 Raul-Petre 0732845511 700
+Targoviste Dambovita apartament 4 66000 Str.Petricani-nr.11 Sas-Petru 0742835511 140
+Cluj Cluj-Napoca birouri 6 58000 Str.Botesti-nr.2 Popovici-Maria 0712845514 400
+Arad Arad apartament 4 80000 Str.Viorilor-nr.34 Vlad-Andrei 0745678895 33
+Cluj Cluj-Napoca apartament 4 67000 Str.Florilor-nr.20 Roman-Alexandru 0765432234 78
